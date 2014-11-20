@@ -28,7 +28,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 *tidy.txt: the resulting file containing the tidy data set, delimited by tab
 
 ## How to use
-*make sure the following packages are installed: stringr, dplyr, tidyr, otherwise, use install.packages() to install them
+* make sure the following packages are installed: stringr, dplyr, tidyr, otherwise, use install.packages() to install them
 *clone this repository to your local drive
 *in a R console, set the working directory to the repository root, use setwd()
 *open run_analysis.R and run the script
